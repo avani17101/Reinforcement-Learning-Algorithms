@@ -19,7 +19,7 @@ Links to Other Algorithms implementations
 * [A3C : AI playing Breakout](https://github.com/avani17101/AI-playing-breakout-game)
 
 
-Other References
+More References
 
 * Denny Britz, reinforcement-learning
 * [OPenAI Gym](https://gym.openai.com/docs/)
