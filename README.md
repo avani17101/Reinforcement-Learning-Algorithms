@@ -14,7 +14,7 @@ The algorithms implemented are as follows:
 * [SARSA](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/SARSA.ipynb)
 
 
-References
+Other References
 
 * Denny Britz, reinforcement-learning
 * [OPenAI Gym](https://gym.openai.com/docs/)
