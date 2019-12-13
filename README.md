@@ -14,6 +14,11 @@ The algorithms implemented are as follows:
 * [SARSA](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/SARSA.ipynb)
 
 
+Links to Other Algorithms implementations
+* [Deep Q Learning : AI playing Doom](https://github.com/avani17101/AI-playing-Doom-Game)
+* [A3C : AI playing Breakout](https://github.com/avani17101/AI-playing-breakout-game)
+
+
 Other References
 
 * Denny Britz, reinforcement-learning
