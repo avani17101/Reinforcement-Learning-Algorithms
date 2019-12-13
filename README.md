@@ -18,6 +18,9 @@ Links to Other Algorithms implementations
 * [Deep Q Learning : AI playing Doom](https://github.com/avani17101/AI-playing-Doom-Game)
 * [A3C : AI playing Breakout](https://github.com/avani17101/AI-playing-breakout-game)
 
+A project
+* [Self Driving Car](https://github.com/avani17101/Self-Driving-car)
+
 
 More References
 
