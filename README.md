@@ -4,7 +4,6 @@ RL algo implementations from [David Silver's lectures](https://www.youtube.com/w
 
 
 The algorithms implemented are as follows:
-* [Bellman Equation in Markov Reward Process](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/Bellman_EQ_MRP.ipynb)
 * [Markov Decision Process Evaluation, Improvement, Iteration using Dynamic Programming](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/MDP_OpenAI.ipynb)
 * [Q learning](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/Q_learning.ipynb)
 * [First visit Monte Carlo](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/monte_carlo.ipynb)
