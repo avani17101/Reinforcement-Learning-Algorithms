@@ -12,6 +12,7 @@ The algorithms implemented are as follows:
 * [Monte Carlo control epsilon greedy Policy](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/Monte%20Carlo%20control%20epsilon%20Greedy%20Policy.ipynb)
 * [Off Policy Monte Carlo with Weighted Importance Sampling](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/Off%20Policy%20Monte%20Carlo%20with%20Weighted%20Importance%20Sampling.ipynb)
 * [SARSA](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/SARSA.ipynb)
+* [DDPG](https://github.com/avani17101/Reinforcement-Learning-Algorithms/blob/master/Deep_RL/ddpg%20walker/DDPG.ipynb)
 
 
 Links to Other Algorithms implementations
